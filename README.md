@@ -30,13 +30,13 @@
 
 ### 1. Java to scala conversion of Collections :
 ### 2. I've used a lot of vars (with thread safety) to read data from results of multiple pages.
-###     Note : One page can show a max of 100 tweets, if tweets for one hashtag are more than that we need to read next query
+###     <span style="color:brown">Note : One page can show a max of 100 tweets, if tweets for one hashtag are more than that we need to read next query</span>
 
 <small>I want to discuss to Prabhat about 2nd point listed above.</small>
 
 I had to use `null` in the code because of Java code. AND THAT'S THE SCALASTYLE WARNING - 4 TIMES!!
 
-Below is the code is used as reference ( <a href="https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/search/SearchTweets.java">link</a> ) : 
+Below is the code I used as reference ( <a href="https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/search/SearchTweets.java">link</a> ) : 
 
 ------------------------------------------------------------------------
 
