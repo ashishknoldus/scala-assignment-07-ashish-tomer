@@ -99,3 +99,8 @@ public class SearchTweets {
 }
 </code>
 </pre>
+
+
+### My Rate Limit has exceeded
+I can't even create a new app
+![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/RateLimit.png)
