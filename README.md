@@ -118,4 +118,5 @@ I can't even create a new app
 <b>Scalastyle Output</b><br/>
 ![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/scalaStyleResult.png)
 
-
+<b>IDE Test Coverage Output</b><br/>
+![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/ideaTestCoverage.png)
