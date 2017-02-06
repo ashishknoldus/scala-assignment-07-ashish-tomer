@@ -208,10 +208,10 @@ object TweetDispatcher {
   val builder: ConfigurationBuilder = new ConfigurationBuilder()
 
   builder.setDebugEnabled(true)
-    .setOAuthConsumerKey("...")
-    .setOAuthConsumerSecret("...")
-    .setOAuthAccessToken("...")
-    .setOAuthAccessTokenSecret("...")
+    .setOAuthConsumerKey("5RNzuMzyI8jQKmOjnNnPIXAHT")
+    .setOAuthConsumerSecret("phm1AElxM879mQdh3UebgsS30A4WFjy4FS6gQDRk61fDWOByTi")
+    .setOAuthAccessToken("828501750097248256-UnO1NGuvh6GaMR4jLUk3gvHtFrtcjub")
+    .setOAuthAccessTokenSecret("OsNBhzJglpkKlEL3tXOah0F7qlEhX1nScnJwK9aFsR2wl")
 
   val twitterFactory = new TwitterFactory(TweetDispatcher.builder.build)
 
