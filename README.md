@@ -104,3 +104,18 @@ public class SearchTweets {
 ### My Rate Limit has exceeded
 I can't even create a new app
 ![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/RateLimit.png)
+
+--------------------------------------------------
+
+### Update : I created a new twitter account for screenshots of results
+
+<b>Test Output</b><br/>
+![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/testOutPut.png)
+
+<b>Coverage Report</b><br/>
+![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/coverageReport.png)
+
+<b>Scalastyle Output</b><br/>
+![alt tag](https://raw.githubusercontent.com/ashishknoldus/scala-assignment-07-ashish-tomer/master/scalaStyleResult.png)
+
+
